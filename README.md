@@ -2,11 +2,14 @@
 
 ## We have to complete atleast on of the given tasks for the round-1 for the DSC Recruitent. We are given the list of tasks on 28th of september. Here I am providng the path on which I have been moving since then and the link to see my work. 
 
-###### _Website for the NITK_Winter_of_Code_
-### Task_Id : NITK_Winter_Of_Code_Homepage 
 
-###### _App - NITK_Virtual Guide_
+### Task_Id : NITK_Winter_Of_Code_Homepage 
+###### _Website for the NITK_Winter_of_Code_   [NITK_WOC](NITK_WOC)
+
+***************
+
 ### Task_Id : NITK_Virtual_Guide
+###### _App = NITK_Virtual Guide_   [Virtual_NITK](Virtual_NITK)
 
 #### Here is my timeline
 
