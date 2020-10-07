@@ -23,6 +23,6 @@
                1. Click on the Code button in the main repository
                2. Copy the Https code given
                3. Open your terminal (make sure you have git installed)
-                    a. git clone (paste the code you copied)
+                    a. git clone (paste the code you copied).
                     b. Enter your credentials,,,this repository will be cloned to your system.
             2. Find index.html file at DSC_Recruitments/NITK_WOC/index.html and open it in the browser. 
