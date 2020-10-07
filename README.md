@@ -17,5 +17,5 @@
 - **4th October - 6th October**: I Started working on the website. I am learning CSS and Javascript and using the things I learnt, I made a mock-website, which is not at all related to this, just to improve my confidence and habituate to the environment. I created the actual website but have to make some changes related to styling and make my website responsive.
 -- **7th October**: First, I learned how to host a website in github and hosted my website, because I also want to see how my website actually works on tab, mobile. Then, I started working on making my website responsive.
 
-#### One mistake I realized that i have done in this process is, not updating git repo.
+## One mistake I realized that i have done in this process is, not updating git repo.
 ***This is because when i started creating website, I read that we can use github to host our website and read the process. In that process, there are some conditions on the name of repo, position od index.html and soon. In the instructions it is mentioned that "if you are working on two projects, create a common repo with two projects as different folders. I got confused, and I thought that i can create the repo once I completed the website. But, today i thought that we can create a repo for hosting and different repo combining both the projects. This is what happened with me!!!***
