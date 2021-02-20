@@ -1,6 +1,6 @@
-# This is the repo of tasks I made for the DSC-Recruitment process.
+## This is the repo of tasks I made for the DSC-Recruitment process.
 
-## We have to complete atleast on of the given tasks for the round-1 for the DSC Recruitent. We are given the list of tasks on 28th of september. Here I am providng the path on which I have been moving since then and the link to see my work. 
+### We have to complete atleast on of the given tasks for the round-1 of the DSC Recruitment. We are given the list of tasks on 28th of september. Here I am providng the path on which I have been moving since then and the link to see my work. 
 
 
 ### Task_Id : NITK_Winter_Of_Code_Homepage 
